@@ -18,6 +18,12 @@ This repository compares Ezkey with adjacent open-source identity and MFA projec
 - A pragmatic adoption path for product teams: additive MFA first, then password replacement later if operations prove out.
 - Stronger cryptographic authentication through an SDK integration path that stays reasonably bounded.
 
+## Maturity caveat
+
+This registry compares fit, not maturity. A mature project like Keycloak or authentik can score highly here while still being broader, more proven, and better supported than Ezkey today.
+
+Ezkey remains experimental. The point of this repository is to frame its likely neighborhood honestly, not to imply production equivalence with better-established systems.
+
 ## Best initial fit
 
 - A product or SaaS team protecting an existing application rather than designing an identity platform from scratch.
@@ -62,12 +68,6 @@ These examples are ordered on purpose. The point is not to lock Ezkey into a sin
 - Not a FIDO2/WebAuthn or passkey-first product.
 - Not a federation / SAML IdP (unlike Shibboleth).
 - Not an identity-governance / provisioning suite (unlike Apache Syncope, OpenIAM).
-
-## Maturity caveat
-
-This registry compares fit, not maturity. A mature project like Keycloak or authentik can score highly here while still being broader, more proven, and better supported than Ezkey today.
-
-Ezkey remains experimental. The point of this repository is to frame its likely neighborhood honestly, not to imply production equivalence with better-established systems.
 
 ## How to read this registry
 
