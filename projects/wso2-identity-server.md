@@ -1,0 +1,3 @@
+# WSO2 Identity Server
+
+<include>./_wso2-identity-server-body.md</include>

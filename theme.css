@@ -1,0 +1,6 @@
+/* Light local polish for Blume's docs reading width.
+   Keep the default structure, but let dense comparison pages breathe more. */
+
+:root {
+  --blume-content-width: 54rem;
+}

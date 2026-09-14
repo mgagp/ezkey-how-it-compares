@@ -1,0 +1,3 @@
+# Adjacent projects
+
+<include>./_adjacent-body.md</include>

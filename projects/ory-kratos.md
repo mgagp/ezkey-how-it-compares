@@ -1,0 +1,3 @@
+# Ory Kratos
+
+<include>./_ory-kratos-body.md</include>
