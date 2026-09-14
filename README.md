@@ -26,6 +26,10 @@ This registry compares fit, not maturity. A mature project like Keycloak or auth
 
 Ezkey remains experimental. The point of this repository is to frame its likely neighborhood honestly, not to imply production equivalence with better-established systems.
 
+## Shortest path
+
+For the fastest evaluation pass, start with [Closest comparators](categories/closest-comparators.md).
+
 ## Best initial fit
 
 - A product or SaaS team protecting an existing application rather than designing an identity platform from scratch.
