@@ -4,3 +4,20 @@
 :root {
   --blume-content-width: 54rem;
 }
+
+article.prose:has(> h1:first-child + p.text-lg.text-muted-foreground + h1[id]) > h1:first-child,
+article.prose:has(> h1:first-child + p.text-lg.text-muted-foreground + h1[id]) > h1:first-child + p.text-lg.text-muted-foreground {
+  display: none;
+}
+
+article.prose:has(> h1:first-child + h1[id]) > h1:first-child {
+  display: none;
+}
+
+article.prose:has(> h1:first-child + p.text-lg.text-muted-foreground + h1[id]) > h1[id] {
+  margin-top: 0;
+}
+
+article.prose:has(> h1:first-child + h1[id]) > h1[id] {
+  margin-top: 0;
+}
