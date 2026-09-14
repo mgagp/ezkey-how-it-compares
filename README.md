@@ -1,3 +1,5 @@
+# Ezkey How It Compares
+
 Stop growing password handling in your product backend.
 
 Ezkey offers a bounded path to stronger, self-hosted cryptographic authentication through a backend, a first-party mobile participant, and an SDK integration path that a product team can adopt incrementally.
@@ -72,7 +74,7 @@ These examples are ordered on purpose. The point is not to lock Ezkey into a sin
 ## How to read this registry
 
 | Fit level | Meaning |
-|---|---|
+| --- | --- |
 | **Closest comparators** | Same problem space and posture; the natural benchmark set. |
 | **Adjacent** | Related identity/security stack, but broader or differently focused. |
 | **Contextual** | Useful building blocks or references, not a comparable MFA product. |
